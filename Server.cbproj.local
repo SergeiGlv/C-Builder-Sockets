@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.804,=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,D:\Projects 11\Builder\Socket_test\ServerPCH1.h=D:\Projects 11\Builder\Socket_test\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,D:\Projects 11\Builder\Socket_test\Project1PCH1.h=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,D:\Projects 11\Builder\Socket_test\ServerUnit1.cpp=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,D:\Projects 11\Builder\Socket_test\Server.cbproj=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,D:\Projects 11\Builder\Socket_test\ServerUnit1.dfm=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,D:\Projects 11\Builder\Socket_test\ServerUnit1.h=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,=C:\Users\Sergey\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
